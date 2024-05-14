@@ -1,0 +1,15 @@
+.btn{
+    margin : 10px;
+    border-radius: 25px !important;
+}
+.counter{
+    text-align: center;
+    background-color:antiquewhite;
+    height: 500px;
+    width: 500px;
+    margin: 30px;
+}
+.disp-value{
+
+    text-align: center;
+}
