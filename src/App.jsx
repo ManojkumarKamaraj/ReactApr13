@@ -6,7 +6,7 @@ import UseReducerHook from './Components/UseReducer/UseReducerHook';
 const App = () => {
   return (
     <>
-    <h1>Component App</h1>
+    
     {/* <CompA />
     <UseRefHook /> */}
     <UseReducerHook />
